@@ -5,6 +5,7 @@ This project involves an end-to-end analysis of customer and sales data to deriv
 Dashboard: 👉 [Explore the BlinkIt Sales Dashboard here](https://public.tableau.com/app/profile/mallikarjuna.reddy.gurrala/viz/Blinkit_data_analysis_dashboard/Dashboard1)
 
 Key Features:
+
 SQL Analysis:
 
 Data Cleaning and Transformation: Prepared raw data for analysis by handling duplicates, missing values, and inconsistencies.
